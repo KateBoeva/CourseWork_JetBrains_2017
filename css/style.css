@@ -180,9 +180,6 @@ body {
     background-color: beige;
 }
 
-
-
-
 .block_items {
     display: inline-flex;
     margin: 50px auto;
@@ -250,4 +247,58 @@ legend {
     padding: 10px;
     position: absolute;
     margin: 0 auto;
+}
+
+.blocks {
+    margin-top: 30px;
+    width: 100%;
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.block {
+    background-color: grey;
+    border: 5px solid white;
+    width: 290px;
+    height: 190px;
+    margin-bottom: 30px;
+}
+
+.notice {
+    margin-top: 155px;
+    background-color: black;
+    opacity: 0.9;
+    color: #ffffff;
+    text-align: center;
+    padding: 5px;
+}
+
+.block:hover {
+    border-color: #76c38f;
+}
+
+.block:hover .notice{
+    display: none;
+}
+
+.block_last {
+    width: 100%;
+    background-color: #303030;
+}
+
+.block_last_content {
+    width: 70%;
+    margin: 0 auto;
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.block_last h1 {
+    color: #ffffff;
+}
+
+.block_last p {
+    width: 25%;
 }
