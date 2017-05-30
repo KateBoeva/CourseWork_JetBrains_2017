@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="25443baf-0eb4-43a2-afaa-34eef8f83af0" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="CourseWork.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -280,7 +278,7 @@
       <workItem from="1495522527979" duration="148000" />
       <workItem from="1495522746874" duration="3567000" />
       <workItem from="1495535919480" duration="153000" />
-      <workItem from="1496046011440" duration="10719000" />
+      <workItem from="1496046011440" duration="10815000" />
     </task>
     <task id="LOCAL-00001" summary="add blocks">
       <created>1495526941301</created>
@@ -289,11 +287,18 @@
       <option name="project" value="LOCAL" />
       <updated>1495526941301</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add all elements">
+      <created>1496160668235</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1496160668235</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39087000" />
+    <option name="totallyTimeSpent" value="39183000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -338,7 +343,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add blocks" />
-    <option name="LAST_COMMIT_MESSAGE" value="add blocks" />
+    <MESSAGE value="add all elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="add all elements" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
